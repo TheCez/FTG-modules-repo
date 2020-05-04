@@ -16,6 +16,7 @@ nopm
 notes
 orangefox
 purge
+qoutly
 quicktype
 quotes
 recentactions
